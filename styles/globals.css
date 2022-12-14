@@ -13,4 +13,17 @@ a{
   color: black;
 }
 
+.btn-main {
+  background-color: #153fe1;
+  color: white !important;
+  border-radius: 12px;
+}
+
+.btn{
+  font-size: 0.9rem;
+}
+
+.navbar-toggler{
+  background-color: #153fe1 !important;
+}
 
