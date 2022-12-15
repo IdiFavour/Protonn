@@ -1,7 +1,7 @@
 const Header = () => {
     return ( 
         <div className="row justify-content-center">
-            <div className="col-lg-8 ">
+            <div className="col-lg-6 ">
                 <div className="header text-center my-5">
                     <h1 className="text-center">Everything you need to grow <br/>your business</h1>
                     <p className="text-wrap mt-4">Protonn does everything you need to start and grow your business. 
