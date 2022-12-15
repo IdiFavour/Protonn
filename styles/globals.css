@@ -17,6 +17,10 @@ a{
   color: #143fe2 !important;
 }
 
+.bg-main {
+  background-color: #153fe1;
+}
+
 .btn-main {
   background-color: #153fe1;
   color: white !important;
@@ -50,4 +54,10 @@ a{
 .btn-icon i {
   font-size: 1.25rem !important;
   color: #143fe2 !important;
+}
+
+.quote{
+  border-radius: 30px;
+  height: 350px;
+  width: 100%;
 }
