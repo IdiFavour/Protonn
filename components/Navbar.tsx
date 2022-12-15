@@ -2,7 +2,7 @@ import Image from 'next/image'
 const Navbar = () => {
     return ( 
         <nav className="navbar navbar-expand-lg">
-            <div className="container p-3 px-5">
+            <div className="container p-3 px-4">
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>

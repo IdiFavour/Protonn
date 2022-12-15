@@ -15,7 +15,6 @@ a{
 
 .text-main{
   color: #143fe2 !important;
-  
 }
 
 .btn-main {
@@ -34,7 +33,7 @@ a{
 
 
 .header h1{
-  font-size: 3rem;
+  font-size: 3.2rem;
   font-weight: 700;
 }
 
@@ -46,4 +45,9 @@ a{
 .btn-icon{
   background-color: #f3f6fe;
   border-radius: 12px;
+}
+
+.btn-icon i {
+  font-size: 1.25rem !important;
+  color: #143fe2 !important;
 }
