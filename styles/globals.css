@@ -19,6 +19,9 @@ a{
   color: black;
 }
 
+img{
+  object-fit: cover;
+}
 .text-main{
   color: var(--text-color) !important;
 }
@@ -81,6 +84,7 @@ a{
   height: 100px;
   border-radius: 50%;
   background-color: white;
+  box-shadow: 0 10px 60px rgba(243, 246, 2540.19), 0 20px 68px rgba(0, 0, 0, 0.23);
   margin-left: -50px;
   margin-bottom: -50px;
   clip-path: inset(50% 0% circle(50%));
@@ -134,10 +138,7 @@ a{
   position: relative;
   top: 24px
 }
-.testimonial-inner .tour-desc{
-  border-radius: 5px;
-  padding: 40px
-}
+
 .color-grey-3{
   font-size: 14px;color: #6c83a2
 }
@@ -151,8 +152,9 @@ a{
   max-width: none
 }
 .link-name{
-  font-size: 14px;color: #6c83a2
+  font-size: 14px;
 }
 .link-position{
-  font-size: 12px;color: #6c83a2
+  font-size: 12px;
+  color: #6c83a2
 }
