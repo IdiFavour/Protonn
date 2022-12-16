@@ -35,6 +35,9 @@ a{
   background-color: #153fe1 !important;
 }
 
+.header{
+  text-align: center;
+}
 
 .header h1{
   font-size: 3.2rem;
@@ -60,4 +63,9 @@ a{
   border-radius: 30px;
   height: 350px;
   width: 100%;
+}
+
+.rounded-end {
+  border-top-right-radius: 2rem!important;
+  border-bottom-right-radius: 2rem!important;
 }
